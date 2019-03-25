@@ -2,7 +2,7 @@ body {
   padding-left: 11em;
   font-family: Georgia, JoseFin Sans, Times New Roman; 
   color:#000000;
-  background-color: #ffffff}
+  background-color: #ffd1d1}
 .sidenav {
   height: 100%;
   width: 160px;
@@ -10,16 +10,15 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  
+  background-color: #d3ab4e
+}
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  p.italic {
-    font-style: italic; 
-  }
   color: #000000;
-  display: block;
+  display: inline-block;
+  float: left;
 }
 .sidenav a:hover {
   color: #f1f1f1;
@@ -34,9 +33,10 @@ body {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-h2 {Welcome}
-  font-family: Georgia, Josefin Sans, Times New Roman; 
-
+h2 {
+  font-family: Georgia;
+  color: #6a80e2;
+}
 ul.navbar li { 
   background:#f1f1f1
  
