@@ -18,7 +18,7 @@ body {
   p.italic {
     font-style: italic; 
   }
-  color: #000000;
+  color: ##e5e5e5;
   display: block;
 }
 .sidenav a:hover {
@@ -38,12 +38,10 @@ h2 {Welcome}
   font-family: Georgia, Josefin Sans, Times New Roman; 
 
 ul.navbar li { 
-  background:#f1f1f1
+  background:#f1f1f1https://github.com/gwcau-yellow
  
   
 ul.navbar a {
   text-decoration: none }
 
 a:link {
-  color: #4259f4
-
